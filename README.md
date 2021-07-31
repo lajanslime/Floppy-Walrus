@@ -43,7 +43,11 @@ TBD - Angela
 ## Datasets/sources to be used:
 
 http://publichealth.lacounty.gov/media/coronavirus/locations.htm
+
+
 http://publichealth.lacounty.gov/media/coronavirus/vaccine/vaccine-dashboard.htm
+
+
 https://www.ppic.org/publication/californias-political-geography/
 https://data.ca.gov/pages/state-portals
 https://dev.socrata.com/
