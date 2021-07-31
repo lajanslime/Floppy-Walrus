@@ -13,10 +13,10 @@ Project proposal
 Project title: 
 Variation in disparities of Covid-19 Mortality in California (not the working title, please edit!) 
 
-##Team name: 
+## Team name: 
 Floppy Walrus
 
-##Team members:
+## Team members:
 Angela, Chris, E, and Shaun
 
 Project description/outline:
@@ -27,11 +27,11 @@ To create a tool to analyze demographic data vs. COVID-19 vaccination rates to p
 Timeline: March 2020
 Mortality rate 
 
-##Applications:
+## Applications:
 Help outreach programs which demographic subsets to invest more in 
 Assist clinics and medical facilities with prioritizing vaccines and care to 
  
-##Research question to answer:
+## Research question to answer:
 5 to 10 Q’s
 Chris: Party- How does each party get influenced by their leaders/media that they consume to get vaccinated?
 Gender (vaccination and possibly exposure)- E
@@ -40,7 +40,7 @@ TBD - Angela
 
 
 
-##Datasets/sources to be used:
+## Datasets/sources to be used:
 
 http://publichealth.lacounty.gov/media/coronavirus/locations.htm
 http://publichealth.lacounty.gov/media/coronavirus/vaccine/vaccine-dashboard.htm
@@ -58,7 +58,7 @@ Variation in racial/ethnic disparities in COVID-19 mortality by age in the Unite
 
 
 
-APIs to be used:
+## APIs to be used:
 	Ethnicity - Shaun
 Places API
 Maps API
