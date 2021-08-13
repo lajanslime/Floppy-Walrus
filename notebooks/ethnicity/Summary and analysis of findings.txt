@@ -1,0 +1,15 @@
+How can ethnic enclaves and access to healthcare affect covid mortalities?
+
+    I was planning on mapping a Choropleth of Zip Codes through each ethnicity and combining a marker map of hospitals to depict where healthcare may be readily available. My hypothesis was that the ethnicities that had a high incidence of mortality would have less health care facilities available to them. 
+
+    Plotly, Matplotlib did not have options to delineate between Zip Codes
+The features and abilities needed have not yet been covered in class (JavaScript and R).
+I attempted to salvage my work by scaling up, and to plot at the state level. While, I was successful in generating choropleths depicting population densities through each ethnic group at the state level. I am not able to make a compelling figure displaying ethnic distribution and access to hospitals or healthcare facilities. At the state level it will be difficult to infer this correlation as populations distributions or ethnic enclaves will be harder to accurately pinpoint. 
+
+    While ultimately, I was not able to proceed with my original method I was able to continue to answer our original question through the loci of ethnicity. 
+
+Is there a relationship between population density and covid mortalities?
+
+     There were commonalities in the data for the American Indian, Asian and Black ethnic groups. All three had positive correlations and was the opposite of my hypothesis. In this exploration, i equated higher population densities with more incidents of ethnic enclaves. I believed the presence of a strong ethnic enclave would provide support, outreach programs, general community support and anticipated a negative correlation. 
+     
+     Outliers were the White and Hispanic or Latino Groups. I believe that in the White group, the biggest difference might be the political affiliation. Historically, Los Angeles is Democratic while, Orange County and San Diego are typically Republican. I believe this is what caused the lower mortality rate in Los Angeles in the White ethnic group. 
